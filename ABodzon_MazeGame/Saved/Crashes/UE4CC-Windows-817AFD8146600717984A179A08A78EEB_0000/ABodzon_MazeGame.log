@@ -1,0 +1,1026 @@
+﻿Log file open, 12/17/20 15:45:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ABodzon_MazeGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060358
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.17-14.45.13:650][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.17-14.45.13:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:651][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.17-14.45.13:653][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.17-14.45.13:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.17-14.45.13:654][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-14.45.13:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.17-14.45.13:656][  0]LogHAL: Display: Platform has ~ 16 GB [17016315904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.17-14.45.13:656][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.17-14.45.13:656][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.17-14.45.13:656][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Scalability.ini]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.17-14.45.13:657][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Config/Windows/Engine.ini]
+[2020.12.17-14.45.13:657][  0]LogInit: Computer: DESKTOP-ALICEIS
+[2020.12.17-14.45.13:657][  0]LogInit: User: AliceIsNotDead
+[2020.12.17-14.45.13:657][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.17-14.45.13:657][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.17-14.45.13:657][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.17-14.45.13:657][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.17-14.45.13:657][  0]LogMemory: Process Physical Memory: 106.13 MB used, 106.13 MB peak
+[2020.12.17-14.45.13:657][  0]LogMemory: Process Virtual Memory: 101.50 MB used, 101.50 MB peak
+[2020.12.17-14.45.13:657][  0]LogMemory: Physical Memory: 6910.12 MB used,  9317.91 MB free, 16228.02 MB total
+[2020.12.17-14.45.13:657][  0]LogMemory: Virtual Memory: 5161.21 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.12.17-14.45.13:660][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.17-14.45.13:686][  0]LogInit: Using OS detected language (pl-PL).
+[2020.12.17-14.45.13:686][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.12.17-14.45.13:687][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.12.17-14.45.13:688][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.17-14.45.13:714][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.17-14.45.13:714][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.17-14.45.13:839][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.17-14.45.13:839][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.17-14.45.13:839][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.17-14.45.13:839][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.17-14.45.13:940][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.12.17-14.45.13:940][  0]LogD3D11RHI:       4021/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.17-14.45.13:970][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.17-14.45.13:970][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.17-14.45.13:972][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.17-14.45.13:972][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.17-14.45.13:972][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.17-14.45.13:978][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.17-14.45.13:978][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.12.17-14.45.13:978][  0]LogWindows: EnumDisplayDevices:
+[2020.12.17-14.45.13:978][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.17-14.45.13:978][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.17-14.45.13:978][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.17-14.45.13:978][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.17-14.45.13:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.12.17-14.45.13:978][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.17-14.45.13:978][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.17-14.45.13:978][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.12.17-14.45.14:054][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.17-14.45.14:054][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.17-14.45.14:066][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.17-14.45.14:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.17-14.45.14:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.17-14.45.14:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.17-14.45.14:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.17-14.45.14:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.17-14.45.14:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.17-14.45.14:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.17-14.45.14:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.17-14.45.14:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.17-14.45.14:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.17-14.45.14:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.17-14.45.14:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.17-14.45.14:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.17-14.45.14:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.17-14.45.14:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.17-14.45.14:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.17-14.45.14:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.17-14.45.14:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.17-14.45.14:446][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.17-14.45.14:448][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.17-14.45.14:464][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Intermediate/Shaders/WorkingDirectory/9820/).
+[2020.12.17-14.45.14:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ala_b/AppData/Local/Temp/UnrealShaderWorkingDir/069F0C54412B07D6F8BD32BFF8973855/'.
+[2020.12.17-14.45.14:464][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.17-14.45.14:465][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.17-14.45.14:465][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.17-14.45.15:071][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.17-14.45.15:119][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/ala_b/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.17-14.45.15:119][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ala_b/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.12.17-14.45.15:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.17-14.45.15:119][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.17-14.45.15:119][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-14.45.15:119][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.17-14.45.15:128][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.17-14.45.15:128][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.17-14.45.15:128][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.17-14.45.15:129][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ala_b/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.17-14.45.15:129][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.17-14.45.15:129][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.17-14.45.15:155][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.17-14.45.15:157][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.17-14.45.15:158][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.17-14.45.15:201][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.17-14.45.15:474][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.17-14.45.15:600][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.17-14.45.15:600][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.17-14.45.15:600][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.17-14.45.15:600][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.17-14.45.15:600][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.17-14.45.15:610][  0]LogNetVersion: ABodzon_MazeGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 112120538)
+[2020.12.17-14.45.16:519][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.045606 seconds
+[2020.12.17-14.45.16:525][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.12.17-14.45.16:525][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.12.17-14.45.16:525][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.17-14.45.16:964][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.17-14.45.16:967][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.17-14.45.17:006][  0]SourceControl: Source control is disabled
+[2020.12.17-14.45.17:006][  0]SourceControl: Source control is disabled
+[2020.12.17-14.45.17:007][  0]SourceControl: Source control is disabled
+[2020.12.17-14.45.17:007][  0]SourceControl: Source control is disabled
+[2020.12.17-14.45.17:008][  0]SourceControl: Source control is disabled
+[2020.12.17-14.45.17:079][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.17-14.45.17:086][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.17-14.45.17:086][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.17-14.45.17:152][  0]LogOcInput: OculusInput pre-init called
+[2020.12.17-14.45.17:158][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.17-14.45.17:158][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.17-14.45.17:213][  0]LogEngine: Initializing Engine...
+[2020.12.17-14.45.17:213][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.17-14.45.17:214][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.17-14.45.17:492][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.17-14.45.17:497][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.17-14.45.17:513][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.17-14.45.17:513][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.17-14.45.17:513][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Name: Głośniki (Realtek(R) Audio)
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Sample Rate: 192000
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: Channel Order:
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.17-14.45.17:532][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.17-14.45.17:588][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2020.12.17-14.45.17:592][  0]LogInit: FAudioDevice initialized.
+[2020.12.17-14.45.17:592][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.17-14.45.18:253][  0]LogDerivedDataCache: Saved boot cache 0.66s 78MB C:/Users/ala_b/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.17-14.45.18:257][  0]LogInit: Texture streaming: Enabled
+[2020.12.17-14.45.18:264][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.17-14.45.18:264][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.17-14.45.18:265][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.17-14.45.18:315][  0]LogInit: Transaction tracking system initialized
+[2020.12.17-14.45.18:321][  0]BlueprintLog: New page: Editor Load
+[2020.12.17-14.45.18:342][  0]LocalizationService: Localization service is disabled
+[2020.12.17-14.45.18:365][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.12.17-14.45.18:365][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.12.17-14.45.18:366][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.12.17-14.45.18:564][  0]LogFileCache: Scanning file cache for directory 'D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/' took 0.00s
+[2020.12.17-14.45.18:564][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.17-14.45.18:564][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.17-14.45.19:048][  0]SourceControl: Source control is disabled
+[2020.12.17-14.45.19:048][  0]Cmd: MAP LOAD FILE="../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.17-14.45.19:119][  0]LightingResults: New page: Lighting Build
+[2020.12.17-14.45.19:120][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-14.45.19:120][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-14.45.19:120][  0]MapCheck: New page: Map Check
+[2020.12.17-14.45.19:120][  0]LightingResults: New page: Lighting Build
+[2020.12.17-14.45.19:151][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.17-14.45.22:192][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.12.17-14.45.22:415][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.17-14.45.22:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.12.17-14.45.22:448][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.17-14.45.22:448][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2020.12.17-14.45.22:448][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.400
+[2020.12.17-14.45.23:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-14.45.23:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-14.45.23:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-14.45.23:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.17-14.45.23:401][  0]LogCollectionManager: Loaded 0 collections in 0.000700 seconds
+[2020.12.17-14.45.23:651][  0]LogFileCache: Scanning file cache for directory 'D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Collections/' took 0.00s
+[2020.12.17-14.45.23:651][  0]LogFileCache: Scanning file cache for directory 'D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Developers/AliceIsNotDead/Collections/' took 0.00s
+[2020.12.17-14.45.23:651][  0]LogFileCache: Scanning file cache for directory 'D:/Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Collections/' took 0.00s
+[2020.12.17-14.45.23:651][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3015 classes and 717 folders.
+[2020.12.17-14.45.23:695][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-14.45.26:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-14.45.26:564][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.12.17-14.45.27:312][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.17-14.45.27:314][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.17-14.45.27:453][  0]LogSlate: Took 0.114334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.17-14.45.27:945][  0]LogRenderer: Reallocating scene render targets to support 1084x644 Format 10 NumSamples 1 (Frame:1).
+[2020.12.17-14.45.28:356][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.17-14.45.28:356][  0]LogLoad: (Engine Initialization) Total time: 15.76 seconds
+[2020.12.17-14.45.28:356][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.17-14.45.28:573][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.17-14.45.28:760][  0]LogSlate: Took 0.039577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-14.45.29:294][  5]LogAssetRegistry: Asset discovery search completed in 14.0939 seconds
+[2020.12.17-14.45.29:298][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.12.17-14.45.31:033][ 90]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.17-14.45.31:524][ 90]LogAIModule: Creating AISystem for world Level1
+[2020.12.17-14.45.31:551][ 90]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2020.12.17-14.45.31:612][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.12.17-14.45.31:742][ 90]Cmd: MAP LOAD FILE="../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.17-14.45.31:744][ 90]LightingResults: New page: Lighting Build
+[2020.12.17-14.45.31:744][ 90]LoadErrors: New page: Loading map: Level1.umap
+[2020.12.17-14.45.31:749][ 90]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.12.17-14.45.31:749][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.17-14.45.31:750][ 90]MapCheck: New page: Map Check
+[2020.12.17-14.45.31:750][ 90]LightingResults: New page: Lighting Build
+[2020.12.17-14.45.31:783][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.12.17-14.45.32:010][ 90]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.17-14.45.32:047][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.12.17-14.45.32:066][ 90]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.17-14.45.32:066][ 90]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2020.12.17-14.45.32:066][ 90]LogFileHelpers: Loading map 'Level1' took 0.370
+[2020.12.17-14.46.21:095][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.17-14.46.23:792][840]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.12.17-14.46.30:682][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-14.46.36:086][512]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.17-14.46.52:300][453]Cmd: EDCALLBACK SURFPROPS
+[2020.12.17-14.46.53:231][497]Cmd: EDCALLBACK SURFPROPS
+[2020.12.17-14.46.56:713][704]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.17-14.47.04:002][124]Cmd: TRANSACTION UNDO
+[2020.12.17-14.47.04:002][124]LogEditorTransaction: Undo Rotate Actors
+[2020.12.17-14.47.21:878][168]Cmd: TRANSACTION UNDO
+[2020.12.17-14.47.21:878][168]LogEditorTransaction: Undo Scale Actors
+[2020.12.17-14.48.35:957][604]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-14.48.38:387][748]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.17-14.49.10:350][650]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-14.49.13:204][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.17-14.49.30:145][801]Cmd: TRANSACTION UNDO
+[2020.12.17-14.49.30:145][801]LogEditorTransaction: Undo Edit X
+[2020.12.17-14.49.57:415][257]Cmd: DELETE
+[2020.12.17-14.49.57:415][257]Cmd: ACTOR DELETE
+[2020.12.17-14.49.57:455][257]LogEditorActor: Deleted Actor: Brush
+[2020.12.17-14.49.57:501][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.12.17-14.49.57:505][257]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.12.17-14.49.59:735][388]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.17-14.51.22:671][256]Cmd: EDIT COPY
+[2020.12.17-14.51.23:438][302]Cmd: EDIT PASTE
+[2020.12.17-14.51.34:441][945]Cmd: EDIT CUT
+[2020.12.17-14.51.34:450][945]LogEditorActor: Deleted Actor: Brush
+[2020.12.17-14.51.34:481][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.12.17-14.51.34:486][945]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.12.17-14.51.36:046][ 39]Cmd: TRANSACTION UNDO
+[2020.12.17-14.51.36:046][ 39]LogEditorTransaction: Undo Cut
+[2020.12.17-14.51.37:416][105]Cmd: EDIT COPY
+[2020.12.17-14.51.38:499][170]Cmd: EDIT PASTE
+[2020.12.17-14.51.42:495][403]Cmd: EDIT COPY
+[2020.12.17-14.51.42:711][416]Cmd: EDIT PASTE
+[2020.12.17-14.52.04:814][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.17-14.52.11:554][721]Cmd: TRANSACTION UNDO
+[2020.12.17-14.52.11:554][721]LogEditorTransaction: Undo Create Actors
+[2020.12.17-14.52.11:555][721]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_308' invalid (228 verts, 0 indices).
+[2020.12.17-14.52.11:555][721]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_308.BodySetup_0 when we are unable to.
+[2020.12.17-14.52.19:845][159]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2020.12.17-14.52.23:682][387]LogEditorViewport: Clicking Background
+[2020.12.17-14.52.25:016][467]LogEditorViewport: Clicking Background
+[2020.12.17-14.52.26:115][533]LogEditorViewport: Clicking Background
+[2020.12.17-14.52.27:166][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.17-14.52.30:974][823]LogEditorViewport: Clicking Background
+[2020.12.17-14.52.57:425][394]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-14.53.10:148][890]LogEditorViewport: Clicking Background
+[2020.12.17-14.53.40:972][608]Cmd: TRANSACTION UNDO
+[2020.12.17-14.53.40:972][608]LogEditorTransaction: Undo Create Actors
+[2020.12.17-14.53.40:990][608]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_305' invalid (228 verts, 0 indices).
+[2020.12.17-14.53.40:990][608]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_305.BodySetup_0 when we are unable to.
+[2020.12.17-14.53.43:206][721]Cmd: TRANSACTION UNDO
+[2020.12.17-14.53.43:206][721]LogEditorTransaction: Undo Create Actors
+[2020.12.17-14.53.43:213][721]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_305' invalid (228 verts, 0 indices).
+[2020.12.17-14.53.43:213][721]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_305.BodySetup_0 when we are unable to.
+[2020.12.17-14.53.45:542][845]Cmd: TRANSACTION UNDO
+[2020.12.17-14.53.45:542][845]LogEditorTransaction: Undo Create Actors
+[2020.12.17-14.53.45:543][845]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_305' invalid (228 verts, 0 indices).
+[2020.12.17-14.53.45:543][845]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_305.BodySetup_0 when we are unable to.
+[2020.12.17-14.53.47:998][992]LogEditorViewport: Clicking Background
+[2020.12.17-14.53.49:165][ 62]LogEditorViewport: Clicking Background
+[2020.12.17-14.53.50:081][117]LogEditorViewport: Clicking Background
+[2020.12.17-14.53.50:882][165]LogEditorViewport: Clicking Background
+[2020.12.17-14.53.52:632][270]LogEditorViewport: Clicking Background
+[2020.12.17-14.54.03:053][895]LogEditorViewport: Clicking Background
+[2020.12.17-14.54.03:952][949]LogEditorViewport: Clicking Background
+[2020.12.17-14.54.05:286][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-14.54.06:270][ 87]LogEditorViewport: Clicking Background
+[2020.12.17-14.54.11:726][414]LogEditorViewport: Clicking Background
+[2020.12.17-14.54.15:978][669]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-14.54.18:698][831]LogEditorViewport: Clicking Background
+[2020.12.17-14.55.31:486][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.12.17-14.55.32:448][388]LogSavePackage: Moving '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Level1_Auto17922694E4EA70A704EEDD191B361BF0E.tmp' to '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2020.12.17-14.55.32:450][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.990
+[2020.12.17-14.55.32:450][388]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.990
+[2020.12.17-16.58.42:453][  8]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1.Level1:PersistentLevel.Level1
+[2020.12.17-16.58.43:722][  8]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.12.17-16.58.44:924][  8]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.17-16.58.45:307][  9]LogSlate: Took 0.017540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.17-17.00.46:202][112]LogSlate: Window 'Level1' being destroyed
+[2020.12.17-17.01.39:681][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.17-17.02.13:085][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.12.17-17.02.13:344][286]LogSavePackage: Moving '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Level1_Auto28B52BEE141BB91907C6499AD6D0B00CF.tmp' to '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2020.12.17-17.02.13:345][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.294
+[2020.12.17-17.02.13:345][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.294
+[2020.12.17-17.05.39:201][615]Cmd: TRANSACTION UNDO
+[2020.12.17-17.05.39:201][615]LogEditorTransaction: Undo Move Actors
+[2020.12.17-17.05.40:600][682]Cmd: EDIT COPY
+[2020.12.17-17.05.40:829][694]Cmd: EDIT PASTE
+[2020.12.17-17.05.51:584][329]Cmd: EDIT COPY
+[2020.12.17-17.05.51:785][341]Cmd: EDIT PASTE
+[2020.12.17-17.06.03:229][ 21]Cmd: EDIT COPY
+[2020.12.17-17.06.03:479][ 36]Cmd: EDIT PASTE
+[2020.12.17-17.06.18:301][919]Cmd: EDIT COPY
+[2020.12.17-17.06.18:502][931]Cmd: EDIT PASTE
+[2020.12.17-17.06.24:876][308]Cmd: EDIT COPY
+[2020.12.17-17.06.25:192][327]Cmd: EDIT PASTE
+[2020.12.17-17.06.31:327][688]Cmd: EDIT COPY
+[2020.12.17-17.06.31:527][700]Cmd: EDIT PASTE
+[2020.12.17-17.06.46:571][596]Cmd: EDIT COPY
+[2020.12.17-17.06.46:788][609]Cmd: EDIT PASTE
+[2020.12.17-17.06.58:040][279]Cmd: EDIT COPY
+[2020.12.17-17.06.58:240][291]Cmd: EDIT PASTE
+[2020.12.17-17.07.13:120][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.07.45:219][ 88]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.07.58:575][877]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.08.05:556][293]Cmd: EDIT COPY
+[2020.12.17-17.08.05:756][305]Cmd: EDIT PASTE
+[2020.12.17-17.08.17:678][ 12]Cmd: EDIT COPY
+[2020.12.17-17.08.17:844][ 22]Cmd: EDIT PASTE
+[2020.12.17-17.08.28:359][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.08.34:303][997]Cmd: EDIT COPY
+[2020.12.17-17.08.34:487][  8]Cmd: EDIT PASTE
+[2020.12.17-17.08.48:801][853]Cmd: EDIT COPY
+[2020.12.17-17.08.49:051][868]Cmd: EDIT PASTE
+[2020.12.17-17.08.56:619][318]Cmd: EDIT COPY
+[2020.12.17-17.08.56:786][328]Cmd: EDIT PASTE
+[2020.12.17-17.09.04:190][767]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.09.11:445][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.09.15:828][456]Cmd: EDIT COPY
+[2020.12.17-17.09.16:016][467]Cmd: EDIT PASTE
+[2020.12.17-17.09.42:019][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.09.50:987][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.09.54:038][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.10.00:377][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.17-17.10.09:313][636]Cmd: EDIT COPY
+[2020.12.17-17.10.09:513][648]Cmd: EDIT PASTE
+[2020.12.17-17.10.24:700][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.10.45:847][410]Cmd: EDIT COPY
+[2020.12.17-17.10.46:014][420]Cmd: EDIT PASTE
+[2020.12.17-17.10.52:376][795]Cmd: DELETE
+[2020.12.17-17.10.52:376][795]Cmd: ACTOR DELETE
+[2020.12.17-17.10.52:387][795]LogEditorActor: Deleted Actor: Brush
+[2020.12.17-17.10.52:430][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.12.17-17.10.52:440][795]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.12.17-17.10.59:303][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.11.06:136][604]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.11.28:947][970]Cmd: EDIT COPY
+[2020.12.17-17.11.29:182][984]Cmd: EDIT PASTE
+[2020.12.17-17.11.46:514][ 10]Cmd: DELETE
+[2020.12.17-17.11.46:514][ 10]Cmd: ACTOR DELETE
+[2020.12.17-17.11.46:524][ 10]LogEditorActor: Deleted Actor: Brush
+[2020.12.17-17.11.46:563][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.12.17-17.11.46:573][ 10]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.12.17-17.11.56:968][625]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.12.12:561][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.12.28:634][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.13.29:003][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.12.17-17.13.29:263][724]LogSavePackage: Moving '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Level1_Auto314FBE8DD463C2E2B585F2F9D89653185.tmp' to '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2020.12.17-17.13.29:264][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.296
+[2020.12.17-17.13.29:264][724]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2020.12.17-17.14.16:156][ 56]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.17-17.16.44:697][839]Cmd: DELETE
+[2020.12.17-17.16.44:698][839]Cmd: ACTOR DELETE
+[2020.12.17-17.16.44:709][839]LogEditorActor: Deleted Actor: Brush
+[2020.12.17-17.16.44:748][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.12.17-17.16.44:759][839]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.12.17-17.17.03:033][908]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.17.03:500][935]Cmd: TRANSACTION UNDO
+[2020.12.17-17.17.03:500][935]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.17-17.17.04:051][954]Cmd: TRANSACTION UNDO
+[2020.12.17-17.17.04:051][954]LogEditorTransaction: Undo Delete Actors
+[2020.12.17-17.17.21:605][987]Cmd: ACTOR ALIGN VERTS
+[2020.12.17-17.17.24:477][147]Cmd: ACTOR ALIGN VERTS
+[2020.12.17-17.17.52:976][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.18.00:316][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.18.07:000][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.18.19:892][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.19.35:805][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.19.52:525][957]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.17-17.20.26:102][896]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.26:102][896]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.20.26:110][896]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.26:110][896]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.30:587][143]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.30:587][143]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.20.30:589][143]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.30:589][143]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.33:071][270]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.33:071][270]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.20.33:076][270]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.33:076][270]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.35:648][418]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.35:648][418]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.20.35:651][418]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.35:652][418]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.56:410][613]Cmd: EDIT CUT
+[2020.12.17-17.20.56:431][613]LogEditorActor: Deleted Actor: Brush
+[2020.12.17-17.20.56:469][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.12.17-17.20.56:480][613]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2020.12.17-17.20.57:829][694]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.57:829][694]LogEditorTransaction: Undo Cut
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:839][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.57:840][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1653' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:840][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1653.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.57:840][694]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1654' invalid (1144 verts, 0 indices).
+[2020.12.17-17.20.57:840][694]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1654.BodySetup_0 when we are unable to.
+[2020.12.17-17.20.58:036][699]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.58:036][699]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.20.58:324][707]Cmd: TRANSACTION UNDO
+[2020.12.17-17.20.58:324][707]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.21.01:540][895]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.21.01:727][905]Cmd: TRANSACTION UNDO
+[2020.12.17-17.21.01:727][905]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.17-17.21.02:058][915]Cmd: TRANSACTION UNDO
+[2020.12.17-17.21.02:058][915]LogEditorTransaction: Undo Move Actors
+[2020.12.17-17.21.02:340][925]Cmd: TRANSACTION UNDO
+[2020.12.17-17.21.02:340][925]LogEditorTransaction: Undo Create Actors
+[2020.12.17-17.21.09:561][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.17-17.21.09:602][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.12.17-17.21.09:880][345]LogSavePackage: Moving '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Level1B9E57E7C44F5467A2A80E9BFFB26C7BD.tmp' to '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Maps/Level1.umap'
+[2020.12.17-17.21.09:930][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.17-17.21.10:106][345]LogSavePackage: Moving '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Saved/Level1_BuiltDataBD8EBFA549D0BEEEE578B9884F1C5FF5.tmp' to '../../../../../../Moje/Studia/Programowanie/Unreal/ABodzon_MazeGame/Content/Maps/Level1_BuiltData.uasset'
+[2020.12.17-17.21.10:128][345]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.17-17.21.10:128][345]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.12.17-17.21.10:128][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.17-17.21.13:356][533]LogEditorViewport: Clicking Background
+[2020.12.17-17.21.19:007][869]Cmd: POLY SELECT MATCHING BRUSH
+[2020.12.17-17.21.50:816][768]Cmd: TRANSACTION UNDO
+[2020.12.17-17.21.50:816][768]LogEditorTransaction: Undo Move Actors
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1653' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1653.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1654' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.50:825][768]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1654.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.54:128][939]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.54:128][939]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1648.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.54:128][939]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.54:128][939]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1652.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1653' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1653.BodySetup_0 when we are unable to.
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1654' invalid (1144 verts, 0 indices).
+[2020.12.17-17.21.54:129][939]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1654.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.20:838][541]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.12.17-17.22.24:750][773]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.24:750][773]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.24:750][773]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.24:750][773]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.24:750][773]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.24:750][773]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.27:001][908]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.27:001][908]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.27:001][908]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.27:001][908]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.27:001][908]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.27:001][908]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.27:502][938]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.27:502][938]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.27:502][938]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.27:502][938]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.27:502][938]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.22.27:502][938]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.22.44:285][939]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.22.45:521][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.22.46:210][ 52]Cmd: TRANSACTION UNDO
+[2020.12.17-17.22.46:210][ 52]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.12.17-17.22.51:979][374]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush15)
+[2020.12.17-17.24.12:624][118]LogSlate: Window 'Merge Actors' being destroyed
+[2020.12.17-17.24.12:629][118]LogSlate: Window 'Merge Actors' being destroyed
+[2020.12.17-17.31.09:607][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.12.17-17.31.09:615][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.053
+[2020.12.17-17.41.09:819][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.17-17.41.09:823][ 86]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.035
+[2020.12.17-17.49.41:944][780]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1677' invalid (1144 verts, 0 indices).
+[2020.12.17-17.49.41:944][780]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1677.BodySetup_0 when we are unable to.
+[2020.12.17-17.49.41:944][780]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1678' invalid (1144 verts, 0 indices).
+[2020.12.17-17.49.41:944][780]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1678.BodySetup_0 when we are unable to.
+[2020.12.17-17.49.41:944][780]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1679' invalid (1144 verts, 0 indices).
+[2020.12.17-17.49.41:944][780]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1679.BodySetup_0 when we are unable to.
+[2020.12.17-17.49.42:477][811]Cmd: TRANSACTION UNDO
+[2020.12.17-17.49.42:477][811]LogEditorTransaction: Undo Move Actors
+[2020.12.17-17.49.42:490][811]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649' invalid (1144 verts, 0 indices).
+[2020.12.17-17.49.42:490][811]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1649.BodySetup_0 when we are unable to.
+[2020.12.17-17.49.42:490][811]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650' invalid (1144 verts, 0 indices).
+[2020.12.17-17.49.42:490][811]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1650.BodySetup_0 when we are unable to.
+[2020.12.17-17.49.42:490][811]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651' invalid (1144 verts, 0 indices).
+[2020.12.17-17.49.42:490][811]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level1.Level1:PersistentLevel.ModelComponent_1651.BodySetup_0 when we are unable to.
+[2020.12.17-17.49.43:139][833]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.50.21:269][ 91]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.50.58:020][262]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.17-17.51.06:432][765]Cmd: TRANSACTION UNDO
+[2020.12.17-17.51.06:432][765]LogEditorTransaction: Undo Set Material
+[2020.12.17-17.51.18:896][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.17-17.51.27:863][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.17-17.51.28:637][ 47]Cmd: DELETE
+[2020.12.17-17.51.28:637][ 47]Cmd: ACTOR DELETE
+[2020.12.17-17.51.31:101][ 47]LogSlate: Window 'Message' being destroyed
+[2020.12.17-17.51.31:140][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.12.17-17.51.31:143][ 47]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2020.12.17-17.51.32:393][ 87]LogUObjectBase: Warning: Object is not registered
+[2020.12.17-17.51.32:398][ 87]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.17-17.51.34:260][ 87]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.863 s
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: 
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/SKismetInspector.cpp] [Line: 628]
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: Object in KismetInspector is invalid, see TTP 281915
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: Stack: 
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fd940889 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fd6994c3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8fd696c43 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b37759f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93af928f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b376042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b37617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93af95574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b376042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b37617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93af928f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b376042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b37617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93af95574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b376042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b37617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:260][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b37617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b376042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b375810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b377c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378757 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b2e0681 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93b378a42 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93ad8036c UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93adaf5a4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93add3de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff93add3316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff64bc1901f UE4Editor.exe!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff64bc2c3ec UE4Editor.exe!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff64bc2c4ca UE4Editor.exe!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff64bc3ceae UE4Editor.exe!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff64bc3fcbe UE4Editor.exe!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff979c37034 KERNEL32.DLL!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff97a15d0d1 ntdll.dll!UnknownFunction []
+[2020.12.17-17.51.34:261][ 87]LogOutputDevice: Error: 
+[2020.12.17-17.51.34:397][ 87]LogStats:                SubmitErrorReport -  0.000 s
